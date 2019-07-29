@@ -1,11 +1,14 @@
 <template>
   <div id="app">
-    <h1>APP----</h1>
-    <van-button type="default">默认按钮</van-button>
+
     <router-view/>
   </div>
 </template>
+<script>
+export default {
 
-<style lang="less">
+}
+</script>
+<style lang="less" scopde>
 
 </style>
